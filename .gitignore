@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+myenv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Model/data files
+*.pkl
+*.csv
+*.xlsx
+
+# Environment variables
+.env
